@@ -36,10 +36,9 @@
     "distributions": [
         {
             "formats": [
-                "H5",
-                "CSV"
+                "H5"
             ],
-            "size": 1.7,
+            "size": 1.2,
             "unit": {
                 "value": "GB"
             },
@@ -49,8 +48,86 @@
                     {
                         "value": "public"
                     }
-                ]
-            }
+                ],
+                "accessURL": "https://zenodo.org/records/4041549/files/impactofinstability_connect%2Bfeature_dset100x1x1x20_both.h5?download=1"
+            },
+            "title": "impactofinstability_connect+feature_dset100x1x1x20_both.h5"
+        },
+        {
+            "formats": [
+                "H5"
+            ],
+            "size": 233.0,
+            "unit": {
+                "value": "MB"
+            },
+            "access": {
+                "landingPage": "https://zenodo.org/record/4041549",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ],
+                "accessURL": "https://zenodo.org/records/4041549/files/impactofinstability_connect_dset25x2x2x20_inputs.h5?download=1"
+            },
+            "title": "impactofinstability_connect_dset25x2x2x20_inputs.h5"
+        },
+        {
+            "formats": [
+                "H5"
+            ],
+            "size": 233.0,
+            "unit": {
+                "value": "MB"
+            },
+            "access": {
+                "landingPage": "https://zenodo.org/record/4041549",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ],
+                "accessURL": "https://zenodo.org/records/4041549/files/impactofinstability_connect_dset25x2x2x20_pipeline.h5?download=1"
+            },
+            "title": "impactofinstability_connect_dset25x2x2x20_pipeline.h5"
+        },
+        {
+            "formats": [
+                "H5"
+            ],
+            "size": 2.4,
+            "unit": {
+                "value": "MB"
+            },
+            "access": {
+                "landingPage": "https://zenodo.org/record/4041549",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ],
+                "accessURL": "https://zenodo.org/records/4041549/files/impactofinstability_classif_dset100x1x1x20_both.h5?download=1"
+            },
+            "title": "impactofinstability_classif_dset100x1x1x20_both.h5"
+        },
+        {
+            "formats": [
+                "CSV"
+            ],
+            "size": 38.5,
+            "unit": {
+                "value": "KB"
+            },
+            "access": {
+                "landingPage": "https://zenodo.org/record/4041549",
+                "authorizations": [
+                    {
+                        "value": "public"
+                    }
+                ],
+                "accessURL": "https://zenodo.org/records/4041549/files/impactofinstability_discrim_dset25x2x2x20_both.csv?download=1"
+            },
+            "title": "impactofinstability_discrim_dset25x2x2x20_both.csv"
         }
     ],
     "extraProperties": [
